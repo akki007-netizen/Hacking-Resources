@@ -1,5 +1,5 @@
 # Hacking-Resources
-A wide range of tools and what they do, along with how to use them guide, for penetration testing.
+A wide range of tools and what they do, along with how to use them, a guide for penetration testing.
 
 This repository is for fellow pentesters, who want to keep others secure.
 There are 5 stages of pentesting:

@@ -9,4 +9,5 @@ There are 5 stages of pentesting:
 4) Maintaining Access
 5) Covering Tracks
 
+The tools will be based on these above topics.
 
